@@ -1,6 +1,6 @@
 ##JavaScript Pig Game
 
-This is a JavaScript implementation of  **[Pig (dice game)](https://en.wikipedia.org/wiki/Pig_(dice_game\))**.<br>
+This is a JavaScript implementation of  **[Pig (dice game)](https://en.wikipedia.org/wiki/Pig_(dice_game))**.<br>
 This project is a part of  **[The Complete JavaScript Course: Build a Real-World Project](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview)** on **[Udemy](https://www.udemy.com/courses/)**.
 
 ##Gameplay
